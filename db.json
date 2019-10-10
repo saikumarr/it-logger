@@ -1,6 +1,6 @@
 {
 "logs": [
-    { "id": 1, "description": "Log 1", "createdAt": "", "updatedAt": "", "createdBy": "", "updatedBy": "", "needsAttention": false},
+    { "id": 1, "description": "Log 1", "createdAt": "", "updatedAt": "", "createdBy": "", "updatedBy": "", "needsAttention": false}
   ],
  "technicians": [
      {"id": 1, "firstname": "John", "lastname": "Doe"}
