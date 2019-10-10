@@ -1,7 +1,8 @@
 {
-"posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ]
+"logs": [
+    { "id": 1, "description": "Log 1", "createdAt": "", "updatedAt": "", "createdBy": "", "updatedBy": "", "needsAttention": false},
+  ],
+ "technicians": [
+     {"id": 1, "firstname": "John", "lastname": "Doe"}
+ ]
 }
